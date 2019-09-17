@@ -1,0 +1,55 @@
+body{
+	background-color: #8F979B;
+}
+
+header, main, footer{
+	background-color: white;
+	border-radius: 40px;
+	text-align: center;
+	padding: 20px;
+	margin: 60px;
+}
+
+img{
+	width: 40%;
+	height: 40%;
+	border-radius: 30px;
+}
+
+h1{
+	font-size: 70px;
+	color: #A36D51;
+	font-family: Georgia;
+}
+
+h2{
+	font-size: 50px;
+	font-family: Impact;
+	text-align: center;
+}
+
+p, a{
+	font-size: 20px;
+	font-family: Arial;
+}
+
+footer a{
+	font-size: 35px;
+	text-transform: uppercase;
+	color: lightblue;
+}
+
+.plus p{
+	background-color: #E2ACD4;
+	text-align: center;
+}
+
+.plus img{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.retour{
+	font-size:35px;
+}
